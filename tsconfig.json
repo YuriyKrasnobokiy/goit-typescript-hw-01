@@ -4,6 +4,7 @@
     "outDir": "./dist",
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
     "emitDecoratorMetadata": true,
     "esModuleInterop": true,
     "experimentalDecorators": true,
